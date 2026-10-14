@@ -1,2 +1,4 @@
 # Variation-among-dengue-virus-1-lineages-affects-the-neutralization-breadth-
 This repository contains the data used in the academic paper titled "Variation among dengue virus-1 lineages affects the neutralization breadth of antibody responses elicited by infection and vaccination". The study investigates the correlation between the genetic diversity of dengue virus 1 (DENV-1) and population immunity amongst unvaccinated and vaccinated individuals. Our research focuses on understanding the virus’s persistence in host populations, its phylogenic history, and the factors influencing its antigenic profile.
+
+[DENV1_Seq_List.xlsx](https://github.com/user-attachments/files/33424356/DENV1_Seq_List.xlsx)
